@@ -1,27 +1,99 @@
-# 💫 About Me:
-# 🚀 Talha Shahzaad<br><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Full+Stack+Developer;Laravel+Specialist;React+Developer;GenAI+%7C+RAG+Explorer;Future+AI+Engineer" /><br><br>---<br><br># 👨‍💻 About Me<br><br>💼 Full-Stack Developer at Remote Resource Private Limited  <br>🚀 متخصص in Laravel, React, and Full-Stack Applications  <br>🤖 Exploring Generative AI, RAG, and Vector Databases  <br>🧠 Learning System Design & Scalable Architecture  <br>⚡ Passionate about building real-world production systems  <br><br>---<br><br># 🛠 Tech Stack<br><br>## Backend<br>![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)<br>![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)<br>![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)<br><br>## Frontend<br>![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)<br>![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)<br>![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)<br>![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)<br><br>## AI / Learning<br>![GenAI](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge)<br>![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)<br>![VectorDB](https://img.shields.io/badge/Vector_DB-green?style=for-the-badge)<br>![SystemDesign](https://img.shields.io/badge/System_Design-purple?style=for-the-badge)<br><br>---<br><br># 📊 GitHub Stats<br><br>![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talhashahzaad&show_icons=true&theme=tokyonight&hide_border=true)<br><br>---<br><br># 🔥 GitHub Streak<br><br>![GitHub streak](https://streak-stats.demolab.com/?user=Talhashahzaad&theme=tokyonight&hide_border=true)<br><br>---<br><br># 📈 Top Languages<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhashahzaad&layout=compact&theme=tokyonight&hide_border=true)<br><br>---<br><br># 🚀 Featured Projects<br><br>## 🏠 Laravel Property Listing<br>🔗 https://github.com/Talhashahzaad/LaravelPropertyListing  <br>✔ Laravel backend  <br>✔ Property listing system  <br>✔ REST API  <br><br>---<br><br>## 🌍 DreamHub Africa Application<br>🔗 https://github.com/Talhashahzaad/DreamHubAfricaApplication  <br>✔ React Native mobile app  <br>✔ Production-level code  <br><br>---<br><br>## ⚙ DreamHub Africa Node API<br>🔗 https://github.com/Talhashahzaad/DreamHubAfricaNodeAPI  <br>✔ Node.js backend  <br>✔ API development  <br><br>---<br><br>## ⚛ React Projects<br>🔗 https://github.com/Talhashahzaad/CatReact  <br>✔ React frontend  <br>✔ Modern UI  <br><br>---<br><br># 🐍 Contribution Snake<br><br>![Snake animation](https://github.com/Talhashahzaad/Talhashahzaad/blob/output/github-contribution-grid-snake.svg)<br><br>---<br><br># 👀 Profile Views<br><br>![Profile Views](https://komarev.com/ghpvc/?username=Talhashahzaad&style=for-the-badge)<br><br>---<br><br># ⚡ Developer Mindset<br><br>Code → Build → Learn → Scale → Repeat 🚀<br><br>---<br><br># 🌐 Connect With Me<br><br>[![GitHub](https://img.shields.io/badge/GitHub-Talhashahzaad-black?style=for-the-badge&logo=github)](https://github.com/Talhashahzaad)<br><br> 
+<h1 align="center">Hi, I'm Talha Shahzaad 👋</h1>
 
+<p align="center">
+Full-Stack Developer • Laravel Specialist • GenAI & RAG Explorer • System Design Learner
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1C1yschEBF/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talha_shahzadd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-talha-khan-69992b121) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15447073) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohdtalha353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdtalha353@gmail.com) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Talhashahzaad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Talhashahzaad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhashahzaad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Talhashahzaad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Talhashahzaad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+Building scalable applications and exploring AI-powered systems.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Talhashahzaad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 💼 Full-Stack Developer at Remote Resource Private Limited  
+- 🚀 Specializing in Laravel, React, and scalable web applications  
+- 🤖 Currently exploring Generative AI, RAG, and Vector Databases  
+- 🧠 Learning System Design and distributed architectures  
+- 📈 Focused on building production-ready software  
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://github.com/Talhashahzaad">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+## ⚙️ Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,react,js,html,css,git,github,vscode,mysql"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Talhashahzaad&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhashahzaad&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Talhashahzaad&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Laravel Property Listing  
+https://github.com/Talhashahzaad/LaravelPropertyListing  
+
+🔹 DreamHub Africa Application  
+https://github.com/Talhashahzaad/DreamHubAfricaApplication  
+
+🔹 DreamHub Africa Node API  
+https://github.com/Talhashahzaad/DreamHubAfricaNodeAPI  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Talhashahzaad/Talhashahzaad/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Talhashahzaad&style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 Current Focus
+
+- Full-Stack Application Development  
+- Generative AI and RAG Systems  
+- Vector Database Integration  
+- Scalable Backend Systems  
+- System Design  
+
+---
+
+<p align="center">
+Always learning. Always building.
+</p>
