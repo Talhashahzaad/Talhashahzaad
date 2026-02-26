@@ -1,8 +1,8 @@
 <!-- PROFESSIONAL HEADER -->
 <h1 align="center">Talha Shahzaad</h1>
-
+ 
 <p align="center">
-Full-Stack Engineer • Laravel Specialist • AI-Powered Application Developer
+Full-Stack Engineer • Python Developer • Laravel Specialist  • AI Application Developer
 </p>
 
 <p align="center">
@@ -11,13 +11,19 @@ Building scalable systems, modern web applications, and intelligent software sol
 
 ---
 
+## Engineering Profile
+
+Full-Stack Engineer with experience building scalable backend systems and AI-powered applications using Python, Laravel, and modern web technologies.
+
+Focused on developing intelligent systems, API architectures, and production-grade software solutions.
+
 ## About
 
-Full-Stack Developer at Remote Resource Private Limited with experience designing and building scalable, secure, and production-grade applications.
+Full-Stack Developer at Remote Resource Private Limited specializing in building scalable, secure, and production-grade applications.
 
-Specialized in Laravel, PHP, React, and modern web technologies, with strong expertise in backend architecture, API development, and full application lifecycle.
+Core expertise includes Laravel, PHP, Python, and modern web technologies, with strong experience in backend architecture, API development, and full-stack systems.
 
-Focused on building high-performance systems and integrating modern AI technologies into real-world applications.
+Experienced in developing intelligent applications, integrating AI capabilities, and building scalable backend systems using modern engineering practices.
 
 ---
 
@@ -25,6 +31,46 @@ Focused on building high-performance systems and integrating modern AI technolog
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,python,react,js,html,css,mysql,git,github,vscode,linux" />
+</p>
+
+---
+
+## AI / Python Ecosystem
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,git,github,linux,vscode"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Development-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Integration-9C27B0?style=for-the-badge"/>
+</p>
+
+---
+
+## AI Engineering Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Vector_Database-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API_Development-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Applications-9C27B0?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -74,10 +120,10 @@ https://github.com/Talhashahzaad/DreamHubAfricaNodeAPI
 ## Professional Focus
 
 • Full-Stack Application Development  
-• Scalable Backend Systems using Laravel  
-• API Design and System Architecture  
-• AI-Powered Application Integration  
-• High-Performance and Production Systems  
+• Backend Systems with Laravel and Python  
+• API Development and System Architecture  
+• AI-Powered Applications and Automation  
+• Scalable and Production-Ready Systems  
 
 ---
 
