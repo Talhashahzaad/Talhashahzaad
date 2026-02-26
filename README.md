@@ -1,3 +1,19 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=06B6D4&center=true&width=900&lines=Talha+Shahzaad;Full-Stack+Engineer;Laravel+%7C+Python+%7C+AI+Developer" />
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=AI%20Engineer%20Profile&fontSize=40&fontColor=06b6d4"/>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Talhashahzaad&style=for-the-badge&color=06b6d4"/>
+</p>
+
 <!-- PROFESSIONAL HEADER -->
 <h1 align="center">Talha Shahzaad</h1>
  
