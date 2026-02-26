@@ -78,8 +78,8 @@ Experienced in developing intelligent applications, integrating AI capabilities,
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Talhashahzaad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhashahzaad&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Talhashahzaad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talhashahzaad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
