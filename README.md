@@ -1,12 +1,12 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=06B6D4&center=true&width=900&lines=Talha+Shahzaad;Full-Stack+Engineer;Laravel+%7C+Python+%7C+AI+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=06B6D4&center=true&width=1000&lines=Talha+Shahzaad;Full-Stack+Engineer;PHP+%7C+Laravel+%7C+React+%7C+Java+Spring" />
 
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=AI%20Engineer%20Profile&fontSize=40&fontColor=06b6d4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=Full-Stack%20Engineer%20Profile&fontSize=40&fontColor=06b6d4"/>
 
 </p>
 
@@ -18,74 +18,82 @@
 <h1 align="center">Talha Shahzaad</h1>
  
 <p align="center">
-Full-Stack Engineer • Python Developer • Laravel Specialist  • AI Application Developer
+Full-Stack Engineer • Laravel Developer • React Developer • Java Spring Developer
 </p>
 
 <p align="center">
-Building scalable systems, modern web applications, and intelligent software solutions.
+Building scalable systems, modern web applications, and production-grade software solutions.
 </p>
 
 ---
 
 ## Engineering Profile
 
-Full-Stack Engineer with experience building scalable backend systems and AI-powered applications using Python, Laravel, and modern web technologies.
+Full-Stack Engineer with experience building scalable backend systems and modern web applications using PHP, Laravel, JavaScript, React, Java Spring Boot, and cloud technologies.
 
-Focused on developing intelligent systems, API architectures, and production-grade software solutions.
+Focused on backend architecture, API development, scalable systems, and production-ready software engineering.
+
+---
 
 ## About
 
 Full-Stack Developer at Remote Resource Private Limited specializing in building scalable, secure, and production-grade applications.
 
-Core expertise includes Laravel, PHP, Python, and modern web technologies, with strong experience in backend architecture, API development, and full-stack systems.
+Core expertise includes PHP, Laravel, JavaScript, React, Java Spring Boot, API Development, AWS, and modern web technologies with strong experience in backend architecture and full-stack systems.
 
-Experienced in developing intelligent applications, integrating AI capabilities, and building scalable backend systems using modern engineering practices.
+Experienced in developing enterprise-grade applications, REST APIs, scalable backend systems, and modern frontend interfaces using industry-standard engineering practices.
 
 ---
 
 ## Technology Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,python,react,js,html,css,mysql,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,java,spring,html,css,mysql,aws,git,github,linux,postman,vscode" />
 </p>
 
 ---
 
-## AI / Python Ecosystem
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,git,github,linux,vscode"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Databases-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API_Development-2196F3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Integration-9C27B0?style=for-the-badge"/>
-</p>
-
----
-
-## AI Engineering Stack
+## Backend & API Development
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java_Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API_Development-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/Vector_Database-4CAF50?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+## Frontend & Cloud Technologies
 
-<img src="https://img.shields.io/badge/API_Development-2196F3?style=for-the-badge"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/AI_Applications-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
@@ -111,13 +119,13 @@ Experienced in developing intelligent applications, integrating AI capabilities,
 
 ## Featured Projects
 
-Laravel Property Listing  
+### Laravel Property Listing  
 https://github.com/Talhashahzaad/LaravelPropertyListing  
 
-DreamHub Africa Application  
+### DreamHub Africa Application  
 https://github.com/Talhashahzaad/DreamHubAfricaApplication  
 
-DreamHub Africa Node API  
+### DreamHub Africa Node API  
 https://github.com/Talhashahzaad/DreamHubAfricaNodeAPI  
 
 ---
@@ -133,9 +141,10 @@ https://github.com/Talhashahzaad/DreamHubAfricaNodeAPI
 ## Professional Focus
 
 • Full-Stack Application Development  
-• Backend Systems with Laravel and Python  
-• API Development and System Architecture  
-• AI-Powered Applications and Automation  
+• Backend Systems with PHP Laravel and Java Spring  
+• React Frontend Development  
+• REST API Development and System Architecture  
+• AWS Cloud Deployment and Linux Servers  
 • Scalable and Production-Ready Systems  
 
 ---
@@ -147,5 +156,5 @@ GitHub: https://github.com/Talhashahzaad
 ---
 
 <p align="center">
-Focused on building scalable, reliable, and intelligent software systems.
+Focused on building scalable, secure, and production-ready software systems.
 </p>
